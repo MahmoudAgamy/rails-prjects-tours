@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Mahmoud Agamy - FlatIron School
+Mod-2 Project / Rails
