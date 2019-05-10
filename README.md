@@ -1,27 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Module two project at while studying at Flatiron school, allow the companies and users to sign up where companies build tour packages and users can book it and make payments and add remove family members
 
 Mahmoud Agamy - FlatIron School
 Mod-2 Project / Rails
